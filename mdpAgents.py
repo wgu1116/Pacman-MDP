@@ -25,7 +25,7 @@
 # Student side autograding was added by Brad Miller, Nick Hay, and
 # Pieter Abbeel (pabbeel@cs.berkeley.edu).
 
-# The agent here is was written by Wei GU (k20023853@kcl.ac.uk), based on the code 
+# The agent here is was written by Malcolm (wgu1996@gmail.com), based on the code 
 # on https://github.com/wpddmcmc/Pacman_MDP/blob/master/mdpAgents.py
 
 from pacman import Directions
