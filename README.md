@@ -1,6 +1,6 @@
 # Pacman
 Use MDP and python to control pacman
-The code that I writed is in mdpAgents.py
+The code that I wrote is in mdpAgents.py
 
 You can simply run this in smallGrid by running:
 
